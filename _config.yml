@@ -1,7 +1,8 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Youngerjesus
+remote_theme :daattali/beautiful-jekyll
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -72,18 +73,18 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-#  reddit: yourname
+#  reddit: Youngerjesus
 #  linkedin: daattali
-#  xing: yourname
+#  xing: Youngerjesus
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
+#  spotify: Youngerjesus
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  twitch: Youngerjesus
+#  yelp: Youngerjesus
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Youngerjesus.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
